@@ -1,8 +1,8 @@
 {
   "name": "nestjs-template",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "NestJS project template",
+  "author": "Adibta Triantama <adibtatriantama@gmail.com>",
   "license": "MIT",
   "scripts": {
     "prebuild": "rimraf dist",
