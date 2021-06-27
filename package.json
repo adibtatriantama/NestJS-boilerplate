@@ -64,5 +64,8 @@
     ],
     "coverageDirectory": "../coverage",
     "testEnvironment": "node"
+  },
+  "engines": {
+    "yarn": "2.4.2"
   }
 }
